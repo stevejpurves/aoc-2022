@@ -2,8 +2,6 @@
 
 ## [Day 1 - Typescript](days/1/index.ts)
 
-```
-    cd days/1
-    npm install
-    npm run start
-```
+## [Day 2 - Typescript](days/2/index.ts)
+
+## [Day 3 - Python](days/2/index.py)
